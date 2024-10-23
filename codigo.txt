@@ -1,49 +1,14 @@
 @charset "UTF-8";
-/* Importação da fonte (GOOGLE FONTS)*/
-@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
-
-
-
-/*CSS reset (compatibilizar com todos navegadores) */ 
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
-/* layout*/
-body {
-    font-family: "Arima", system-ui;
-    font-size: 1em; /* 1em= 100% (tamanho padrão) */
-}
-
-.container {
-margin: 0 auto;
-}
 /***** bleakpointes ******/
 
-/* Smartphone portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
-/* cabeçalho */
- #logo img {
-    margin: 10px 0px 0px 0px;
- }
 
-header {
-    height: 100px;
-    background-color: #E3BC9A;
-}
-#logo img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%;
-}
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
 /*Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 @media (min-width: 576px) {
-   /*cabeçalho */
+   
 }
 
 

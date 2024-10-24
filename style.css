@@ -28,7 +28,7 @@ body {
 /* Cabeçalho */
 header {
     height: 100px;
-    background-color: #00ffff;
+    background-color: #E3BC9A;
 }
 
 #logo img {
@@ -51,7 +51,7 @@ header {
 
     .container {
         max-width: 540px;
-        background-color: #ffff00;
+        background-color: #E3BC9A;
     }
 }
 
@@ -64,7 +64,7 @@ header {
     /* cabeçalho */
     .container {
         max-width: 720px;
-        background-color: #00ff00;
+        background-color: #E3BC9A;
     }
     header {
         height: 120px;
@@ -83,7 +83,7 @@ header {
     /* cabeçalho */
     .container {
         max-width: 960px;
-        background-color: #ffa500;
+        background-color: #E3BC9A;
     }
 }
 
@@ -94,7 +94,7 @@ header {
 @media (min-width: 1200px) {
     .container {
         max-width: 1140px;
-        background-color: #ff009d;
+        background-color: #E3BC9A;
     }
     header {
         height: 150px;
@@ -112,7 +112,7 @@ header {
 @media (min-width: 1400px) {
     .container {
         max-width: 1360px;
-        background-color: #7d5b8c;
+        background-color: #E3BC9A;
     }
     header {
         height: 195px;
